@@ -1,0 +1,7 @@
+Id,Component,Brand,Model,Specs,Serial Number,Notes
+1,CPU,Intel,Core i7-11700K,8 cores / 16 threads / 3.6GHz,SNCPU123,High-performance CPU
+2,RAM,Corsair,Vengeance LPX DDR4,32GB (2x16GB) 3200MHz,SNRAM456,Upgradable to 64GB
+3,GPU,NVIDIA,GeForce RTX 3070,8GB GDDR6,SNGPU789,Great for gaming and ML
+4,Storage,Samsung,970 EVO Plus,1TB NVMe SSD,SNSTR001,Primary drive
+5,OS,Microsoft,Windows 11 Pro,64-bit,N/A,Fully activated
+6,Motherboard,ASUS,ROG STRIX Z590-E,ATX / LGA1200 socket,SNMB002,Supports overclocking
